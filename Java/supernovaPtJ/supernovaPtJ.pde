@@ -1,6 +1,6 @@
 // Veer Vohra
 // Supernova
-// Java Ver 1.0
+// Java Ver 1.0 (translated from Python)
 
 float t = 0;
 int numPs = 100;
